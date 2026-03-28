@@ -1,4 +1,4 @@
-public abstract class Historia extends Humanas{
+public final class Historia extends Humanas{
     public Historia() {
         super("Historia0");
     }
